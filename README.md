@@ -1,8 +1,8 @@
 ### Hi there 👋 My name is Samia!
 <ul>
-🌱 I’m currently learning UX design and web development.
-💬 Ask me about chemical engineering, life at UWaterloo
-😄 Pronouns: she/her
+  <li>🌱 I’m currently learning UX design and web development.</li>
+  <li>💬 Ask me about chemical engineering, life at UWaterloo</li>
+  <li>😄 Pronouns: she/her</li>
 </ul>
 
 <!--
